@@ -1,0 +1,16 @@
+APP.JS
+
+import Header from './components/Header';
+import AboutUs from './components/AboutUs';
+import './App.css';
+
+function App() {
+  return (
+    <div className="App">
+     <Header />
+     <AboutUs />
+    </div>
+  );
+}
+
+export default App;
