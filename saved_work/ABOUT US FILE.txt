@@ -1,0 +1,14 @@
+ABOUT US FILE
+
+import React from 'react';
+
+const AboutUs = ()  => {
+    return (
+        <div>
+            <br></br>
+            <h3>Create your own customizable inventory with <i class='no-italics'>Inventor</i>Me!</h3>
+        </div>
+    );
+};
+
+export default AboutUs;
